@@ -1,3 +1,4 @@
+
 # 🧠 Markdown Mastery – Task 2
 
 Welcome to my Markdown showcase for **MuLearn Task 2**  
@@ -63,4 +64,8 @@ def greet(name):
     return f"Hello, {name}!"
 
 print(greet("Abhinand"))
+## 🖼️ My Favorite Player
+
+![Cristiano Ronaldo](https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg)  
+**Cristiano Ronaldo**
 
