@@ -56,7 +56,11 @@ Hello! I’m _Abhinand R_, a curious tech explorer diving into the world of GitH
 | HTML/CSS     | ⭐⭐⭐       |
 
 ---
-![Mona the Octocat](https://octodex.github.com/images/original.png)
+## 🖼️ My Favorite Player
+
+![Cristiano Ronaldo](https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg)  
+**Cristiano Ronaldo**
+
 
 ## 🧪 Code Example in Python
 
