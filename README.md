@@ -56,7 +56,7 @@ Hello! I’m _Abhinand R_, a curious tech explorer diving into the world of GitH
 | HTML/CSS     | ⭐⭐⭐       |
 
 ---
-
+![Mona the Octocat](https://octodex.github.com/images/original.png)
 
 ## 🧪 Code Example in Python
 
@@ -67,5 +67,5 @@ def greet(name):
 print(greet("Abhinand"))
 
 
-![Mona the Octocat](https://octodex.github.com/images/original.png)
+
 
