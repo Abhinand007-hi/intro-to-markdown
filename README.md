@@ -57,6 +57,7 @@ Hello! I’m _Abhinand R_, a curious tech explorer diving into the world of GitH
 
 ---
 
+
 ## 🧪 Code Example in Python
 
 ```python
@@ -65,10 +66,6 @@ def greet(name):
 
 print(greet("Abhinand"))
 
-## 🖼️ My Favorite Player
 
-![Cristiano Ronaldo](https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg)  
-**Cristiano Ronaldo**
-
-
+![Mona the Octocat](https://octodex.github.com/images/original.png)
 
